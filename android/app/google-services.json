@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "839515921902",
+    "project_id": "trip-campus",
+    "storage_bucket": "trip-campus.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839515921902:android:3f176cecfefbe785bf82ff",
+        "android_client_info": {
+          "package_name": "com.example.trip_campus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmmnN13_p0WSyFmxq92Aq4Z7xn7nNSFyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
